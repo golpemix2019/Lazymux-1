@@ -3,7 +3,7 @@
 import os, sys
 import readline
 from time import sleep as timeout
-from core.lzmcore import *
+from core lzmcore import *
 
 def main():
 	banner()
